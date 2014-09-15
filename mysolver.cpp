@@ -1,6 +1,8 @@
 /*****
    Sudoku Program for 9 by 9 grid
    assuming puzzle length is 81
+   Author by Vinod
+   Email: vinod.designer1@gmail.com
 *****/
 
 #include <iostream>
